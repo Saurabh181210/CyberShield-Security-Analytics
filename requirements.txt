@@ -30,3 +30,7 @@ pytest
 
 # Cybersecurity Log and Network Analysis
 scapy
+
+# Power BI REST API Integration
+requests
+msal
