@@ -6,3 +6,5 @@ __pycache__/
 .vscode/
 *.tmp
 *.log
+
+projectworkflow.txt

@@ -1,0 +1,32 @@
+# Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# Configuration and Environment Variables
+python-dotenv
+
+# Data Import and Export
+openpyxl
+pyarrow
+
+# SQL Database Connectivity
+SQLAlchemy
+PyMySQL
+
+# Data Validation
+pandera
+
+# Testing
+pytest
+
+# Cybersecurity Log and Network Analysis
+scapy
